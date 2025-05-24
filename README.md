@@ -12,7 +12,7 @@
 ![image](https://github.com/user-attachments/assets/fb83eb01-6de4-4343-8682-597417c81008)
 
 
-## Workflow для остальных дипов задач
+## Workflow для остальных типов задач
 
 ![image](https://github.com/user-attachments/assets/4298bfe6-2005-484a-b463-3e923076a08e)
 
